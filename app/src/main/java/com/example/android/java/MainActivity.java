@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(MainActivity.this, "Person not found", Toast.LENGTH_SHORT).show();
             mLog.append("Person not found" + "\n");
         }
-
+///ladida new comment
     }
 
     @Override
