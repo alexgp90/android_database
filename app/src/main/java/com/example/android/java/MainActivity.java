@@ -80,6 +80,7 @@ public class MainActivity extends AppCompatActivity {
             mLog.append("Person not found" + "\n");
         }
 ///ladida new comment
+        //ladida another comment
     }
 
     @Override
