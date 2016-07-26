@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView mLog, mSearch;
     private static final String LOG_TEXT_KEY = "";
     private MyDataSource datasource;
-
+//update from mac os, let's break stuff
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

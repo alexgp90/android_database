@@ -1,6 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+        "merged": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v23/abc_color_highlight_material.xml"
     }
 ]
