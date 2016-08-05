@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
-        "source": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
-        "source": "/Volumes/STORE OSX/AndroidStudio_Projects/android_database/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Volumes\\STORE OSX\\AndroidStudio_Projects\\android_database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Volumes\\STORE OSX\\AndroidStudio_Projects\\android_database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Volumes\\STORE OSX\\AndroidStudio_Projects\\android_database\\C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Volumes\\STORE OSX\\AndroidStudio_Projects\\android_database\\C:\\Users\\alexandru.pavel\\Desktop\\Exercise Files\\Ch04\\04_03\\Database\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

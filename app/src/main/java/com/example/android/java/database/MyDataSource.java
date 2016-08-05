@@ -50,7 +50,8 @@ public class MyDataSource {
         long count = DatabaseUtils.queryNumEntries(database, PEOPLE_TABLE);
         if (count == 0) {
             Log.i("MyDataSource", "Initializing data");
-            for (int i = 1; i <= 100; i++) {
+            //larger DB
+            for (int i = 1; i <= 200; i++) {
                 createRecord(i, "Person " + i, "PERSON_DATE " + i, "PERSON_REVISION " +i , "PERSON_PHOTO " +i);
             }
             Log.i("MyDataSource", "Data  initialized ");
